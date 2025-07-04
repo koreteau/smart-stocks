@@ -15,5 +15,5 @@ Avant d'installer ou d'utiliser ce projet, assurez-vous d'avoir :
 ## Installation
 Clonez ce dépôt :
 ```sh
-git clone https://github.com/[ton-username]/[nom-du-repo].git
-cd [nom-du-repo]
+git clone https://github.com/koreteau/smart-stocks.git
+cd smart-stocks
